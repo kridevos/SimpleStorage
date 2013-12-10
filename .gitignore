@@ -1,0 +1,13 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#folders
+/software/*
+/logs/*
+/root/*
+/index/*
+/apache-tomcat-7.0.4/*

@@ -6,8 +6,8 @@
 *.ear
 
 #folders
-/software/*
-/logs/*
-/root/*
-/index/*
-/apache-tomcat-7.0.4/*
+/software/
+/logs/
+/root/
+/index/
+/apache-tomcat-7.0.4/
